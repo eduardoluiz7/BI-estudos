@@ -1,2 +1,3 @@
-# BI-estudos
-Repositório com os materiais de estudos de Business Intelligence com Pentaho
+# Business Intelligence
+### Livros:
+ - Pentaho Solutions: http://www.cin.ufpe.br/~rrbs/Livro.pdf
